@@ -1,0 +1,51 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  margin:0px;
+  padding-top:5px;
+}
+
+ /*======== Header ======== */
+ header {
+  background-color: #fcf5ebe2;;
+  top: 0px;
+  border-bottom: 1px solid #c8c6c3;
+ }
+ .custom-item li {
+  list-style-type: none;
+ }
+ #menu-button {
+  border:none;
+ }
+ #menu-button i {
+  font-size: 35px;
+  color: gray;
+ }
+ .template-bg-img {
+  width: 100%;
+  background-image:url(https://media.istockphoto.com/id/1325578537/photo/happy-indian-mother-having-fun-with-her-daughter-outdoor-family-and-love-concept-focus-on-mum.jpg?s=612x612&w=0&k=20&c=oSkEIgp2zOGO-ILqE4-MbsIUKZUhKNPNSzrFpSRAUxM=);
+  background-size: cover;
+  background-position: center;
+ }
+ .middle {
+  width: 200px;
+  margin: auto;
+ }
+ footer a {
+  text-decoration: none;
+  color:#ffffff;
+ }
+ .hover button {
+  width: 60px;
+  height: 60px;
+  border: 2px solid #ffffffff;
+ }
+ .hover button:hover {
+  border: none;
+ }
+ .hover button i {
+  width: 100%;
+  color:#ffffffff;
+ }
